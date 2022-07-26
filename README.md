@@ -31,3 +31,11 @@ Run the rock paper scissors game:
 ```sh
 python game.py
 ```
+
+## TESTING
+
+Run tests:
+
+```sh
+pytest
+```
